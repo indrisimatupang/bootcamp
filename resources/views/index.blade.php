@@ -8,4 +8,5 @@
 8
 @extends('master')
 @section('content')
+@section('pace')
 @endsection
